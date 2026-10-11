@@ -49,3 +49,7 @@ To install manually, do the same three steps by hand.
 ## Uninstall
 
 Close LFS and run `uninstall.bat`.
+
+## Takedown requests
+
+If you hold rights to any part of this package and want it removed, email [pedrodinp.70@gmail.com](mailto:pedrodinp.70@gmail.com) and it will be taken down.
