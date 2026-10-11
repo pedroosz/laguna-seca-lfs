@@ -15,7 +15,7 @@ This package is a conversion of Fenryr's work. The track geometry, textures, bar
 
 **Assetto Corsa** was developed by Kunos Simulazioni. The source track was built for their game. This conversion is not affiliated with or endorsed by Kunos Simulazioni.
 
-**Live for Speed** is by Scawen Roberts, Eric Bailey and Victor van Vlaardingen. The barrier materials, posts, pit box model and cameras are reused from LFS's own Blackwood track. This conversion is not affiliated with or endorsed by the LFS developers.
+**Live for Speed** is by Scawen Roberts, Eric Bailey and Victor van Vlaardingen. The barrier materials, posts, trees, bushes, pit box model and cameras are reused from LFS's own Blackwood track. This conversion is not affiliated with or endorsed by the LFS developers.
 
 The real circuit is WeatherTech Raceway Laguna Seca in Monterey, California. Its name is used for identification only.
 

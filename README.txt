@@ -13,9 +13,9 @@ Assetto Corsa: developed by Kunos Simulazioni. The source track was built for
   their game; this conversion is not affiliated with or endorsed by Kunos
   Simulazioni.
 
-Live for Speed: by Scawen Roberts, Eric Bailey and Victor van Vlaardingen.
-  The barrier materials, posts, pit box model and cameras are reused from
-  LFS's own Blackwood track. Not affiliated with or endorsed by the LFS
+  The barrier materials, posts, trees, bushes, pit box model and cameras
+  are reused from LFS's own Blackwood track. Not affiliated with or
+  endorsed by the LFS developers.
   developers.
 
 The real circuit is WeatherTech Raceway Laguna Seca, Monterey, California.
